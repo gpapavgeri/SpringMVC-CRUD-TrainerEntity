@@ -13,6 +13,6 @@ Tasks
 
 - Delete Trainer
 
-Use Java Spring Framework Technologies
+Use Java Spring Framework Technologies and Relational Database Management System MySQL.
 
 
